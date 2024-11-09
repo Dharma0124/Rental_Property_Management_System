@@ -1,1 +1,34 @@
-# Rental_Property_Management_System
+# Rental Property Management System
+
+A simple rental property management application developed using Java, Spring Boot, and MongoDB. This project provides basic CRUD operations for managing rental properties, making it ideal for property managers to store, retrieve, and manage property data.
+
+## Features
+
+- **Property Management**: Add, update, and delete rental properties with information like property ID, rental amount, number of bedrooms, location, and city.
+- **Search and Filtering**: Retrieve properties based on specific criteria, such as rental amount range, number of bedrooms, location, and city.
+- **Data Validation**: Ensures valid inputs for property attributes.
+- **Basic Testing**: Includes test cases to check functionality, including DAO method tests and service method tests.
+
+## Project Structure
+
+- **RentalPropertyDAO**: Data access layer handling MongoDB interactions.
+- **RentalPropertyService**: Service layer containing business logic for property management.
+- **Main**: Main entry point to test various functionalities.
+
+## Technologies Used
+
+- **Backend**: Java, Spring Boot
+- **Database**: MongoDB
+- **IDE**: Eclipse
+
+## Prerequisites
+
+- **Java 11+**
+- **MongoDB** installed and running on `localhost:27017`
+- **Maven** for dependency management
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/repositoryname.git
