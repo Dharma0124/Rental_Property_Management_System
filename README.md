@@ -35,5 +35,4 @@ A simple rental property management application developed using Java, Spring Boo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dharma0124/Rental_Property_Management_System
-.git
+   git clone https://github.com/Dharma0124/Rental_Property_Management_System.git
