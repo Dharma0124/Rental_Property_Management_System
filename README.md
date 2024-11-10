@@ -25,7 +25,11 @@ A simple rental property management application developed using Java, Spring Boo
 
 - **Java 11+**
 - **MongoDB** installed and running on `localhost:27017`
-- **Maven** for dependency management
+- **JAR Driver** files
+
+  ## Output
+  ![WhatsApp Image 2024-11-09 at 23 21 00_fbc80821](https://github.com/user-attachments/assets/7f173774-af40-4df7-a1e8-8a7f7b5d97f3)
+
 
 ## Getting Started
 
